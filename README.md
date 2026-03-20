@@ -1,43 +1,43 @@
-📄 FOLIO — CV Builder
+# 📄 FOLIO — CV Builder
 
-A modern, elegant CV builder designed for simplicity, speed, and clean design.
+## A modern, elegant CV builder designed for simplicity, speed, and clean design.
 
-FOLIO allows users to create professional resumes in real-time with a live preview, customizable templates, and instant PDF export.
+## FOLIO allows users to create professional resumes in real-time with a live preview, customizable templates, and instant PDF export.
 
-✨ Features
+# ✨ Features
 
-Live CV preview
+## Live CV preview
 
-Multiple templates (Classic, Modern, Minimal)
+## Multiple templates (Classic, Modern, Minimal)
 
-Skills & language management
+## Skills & language management
 
-Work & education sections
+## Work & education sections
 
-Accent color customization
+## Accent color customization
 
-Local draft saving
+## Local draft saving
 
-Export to PDF
+## Export to PDF
 
-🎯 Goal
+# 🎯 Goal
 
-The goal of this project is to provide a lightweight, fast, and visually appealing alternative to complex CV builders.
+## The goal of this project is to provide a lightweight, fast, and visually appealing alternative to complex CV builders.
 
-⚙️ Tech
+# ⚙️ Tech
 
-HTML / CSS / JavaScript
+### HTML / CSS / JavaScript
 
-No frameworks — pure frontend
+### No frameworks — pure frontend
 
-LocalStorage for persistence
+### LocalStorage for persistence
 
-🚀 Future Improvements
+# 🚀 Future Improvements
 
-Real PDF generation (jsPDF)
+#### Real PDF generation (jsPDF)
 
-Pre-built templates
+#### Pre-built templates
 
-Online hosting + shareable links
+#### Online hosting + shareable links
 
-Export formats
+#### Export formats
